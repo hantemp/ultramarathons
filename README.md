@@ -1,2 +1,2 @@
 # ultramarathons
-Data on UK ultramarathons.
+Project involving collecting and investigating data from UK ultramarathons.
